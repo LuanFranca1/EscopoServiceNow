@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8dac44b983a12210e0b83596feaad34b" extends="task" label="Solicitação de Serviços Acadêmicos" max_length="40" name="x_1649910_unit_solicitaco_de_servicos_academicos" type="collection">
+        <element label="Nome do aluno" max_length="200" name="nome_do_aluno" type="string"/>
+        <element label="Conjunto de cadeiras" max_length="200" name="conjunto_de_cadeiras" type="string"/>
+        <element label="Seleceionar o catálogo de Serviços" max_length="200" name="seleceionar_o_catalogo_de_servicos" type="string"/>
+        <element label="Matérias para o aluno se matricular" max_length="200" name="materias_para_o_aluno_se_matricular" type="string"/>
+    </element>
+</database>

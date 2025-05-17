@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Serviços Acadêmicos ">3ddc80b983a12210e0b83596feaad3aa</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-17 00:48:41</sys_created_on>
+        <sys_id>64d5bc3d83652210e0b83596feaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Serviços Acadêmicos </sys_name>
+        <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_64d5bc3d83652210e0b83596feaad39e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-17 00:48:41</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

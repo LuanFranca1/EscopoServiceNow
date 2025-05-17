@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>nome,data_de_nascimento,matricula,data_de_formacao,ativo,turno,localizacao</col_name_string>
+        <index_col_name>cda64aaa83952210e0b83596feaad3f4,a9c64eaa83952210e0b83596feaad3f8,8227c6ea83952210e0b83596feaad30c,47374aea83952210e0b83596feaad3f3,94678eea83952210e0b83596feaad335,0087822e83952210e0b83596feaad326,540982ae83952210e0b83596feaad396</index_col_name>
+        <logical_table_name>x_1649910_unit_aluno</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-05-16 21:19:49</sys_created_on>
+        <sys_id>b0068c7183a12210e0b83596feaad3e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1649910_unit_aluno</sys_name>
+        <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
+        <sys_update_name>sys_index_x_1649910_unit_aluno_nome_data_de_nascimento_matricula_data_de_formacao_ativo_turno_localizacao</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-05-16 21:19:49</sys_updated_on>
+        <table display_value="Alunos" name="x_1649910_unit_aluno">21f5ca6a83952210e0b83596feaad3e0</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

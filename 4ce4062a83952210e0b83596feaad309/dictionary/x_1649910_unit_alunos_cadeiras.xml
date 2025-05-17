@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8ce462683d52210e0b83596feaad338" label="m2m_Alunos_Cadeiras" max_length="40" name="x_1649910_unit_alunos_cadeiras" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#9;var u_media;&#13;&#10;&#9;u_media = ((current.u_nota_1 + current.u_nota_2) / 2);&#13;&#10;    return u_media;&#13;&#10;})(current);" label="Média" max_length="40" name="media" type="float" virtual="true"/>
+        <element label="Nota 1" max_length="40" name="nota_1" type="integer"/>
+        <element attributes="encode_utf8=false" label="Cadeiras" max_length="32" name="x_1649910_unit_cadeiras" reference="x_1649910_unit_cadeiras" type="reference"/>
+        <element attributes="encode_utf8=false" label="Alunos" max_length="32" name="x_1649910_unit_aluno" reference="x_1649910_unit_aluno" type="reference"/>
+        <element label="Nota 2" max_length="40" name="nota_2" type="integer"/>
+        <index name="index">
+            <element name="x_1649910_unit_aluno"/>
+        </index>
+        <index name="index2">
+            <element name="x_1649910_unit_cadeiras"/>
+        </index>
+    </element>
+</database>
