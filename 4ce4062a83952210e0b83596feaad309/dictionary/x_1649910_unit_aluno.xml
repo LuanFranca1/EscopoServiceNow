@@ -3,8 +3,16 @@
         <element choice="1" label="Turno" max_length="40" name="turno" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Manhã" value="Manhã"/>
-                <element inactive_on_update="false" label="Noite" value="Noite"/>
                 <element inactive_on_update="false" label="Tarde" value="Tarde"/>
+                <element inactive_on_update="false" label="Noite" value="Noite"/>
+            </choice>
+        </element>
+        <element choice="1" label="Ênfase" max_length="40" name="enfase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Desenvolverdor Web" value="Desenvolverdor Web"/>
+                <element inactive_on_update="false" label="Desenvolvedor Back-end" value="Desenvolvedor Back-end"/>
+                <element inactive_on_update="false" label="Data Science" value="Data Science"/>
+                <element inactive_on_update="false" label="UX/UI Desining" value="UX/UI Desining"/>
             </choice>
         </element>
         <element label="Data de Formação" max_length="40" name="data_de_formacao" type="glide_date"/>
@@ -13,7 +21,21 @@
         <element label="Data de Matrícula" max_length="40" name="matricula" type="glide_date"/>
         <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
         <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
-        <element display="true" label="Nome" max_length="100" name="nome" type="string"/>
+        <element label="Nome" max_length="100" name="nome" type="string"/>
+        <element choice="1" display="true" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="9" value="9"/>
+                <element inactive_on_update="false" label="8" value="8"/>
+                <element inactive_on_update="false" label="5" value="5"/>
+                <element inactive_on_update="false" label="4" value="4"/>
+                <element inactive_on_update="false" label="6" value="6"/>
+                <element inactive_on_update="false" label="7" value="7"/>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="10" value="10"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+            </choice>
+        </element>
         <element label="Professores" max_length="32" name="professores" reference="x_1649910_unit_professor" type="reference"/>
         <index name="index">
             <element name="cadeiras"/>

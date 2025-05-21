@@ -7,7 +7,7 @@
         <element label="Data de Demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
         <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
         <element label="Número de Matrícula" max_length="40" name="numero_de_matricula" type="string"/>
-        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="calendar_date_time"/>
         <index name="index">
             <element name="cadeira"/>
         </index>
