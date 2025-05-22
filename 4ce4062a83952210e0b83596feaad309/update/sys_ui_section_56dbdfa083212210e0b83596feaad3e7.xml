@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="56dbdfa083212210e0b83596feaad3e7" sys_domain="global" table="x_1649910_unit_professor" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>nome</element>
+            <element>user_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>be0a35cf83a12210e0b83596feaad30b</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>d4fb329383a92210e0b83596feaad38d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>numero_de_matricula</element>
+            <element>first_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>360a35cf83a12210e0b83596feaad30c</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>50fb329383a92210e0b83596feaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_de_contratacao</element>
+            <element>last_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>ba0a35cf83a12210e0b83596feaad30c</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>d4fb329383a92210e0b83596feaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_de_demissao</element>
+            <element>name</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>320a35cf83a12210e0b83596feaad30d</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>5cfb329383a92210e0b83596feaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>localizacao</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>b60a35cf83a12210e0b83596feaad30d</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>d0fb329383a92210e0b83596feaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>ativo</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>3e0a35cf83a12210e0b83596feaad30d</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>58fb329383a92210e0b83596feaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,69 @@
             <element>cadeira</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 02:59:10</sys_created_on>
-            <sys_id>b20a35cf83a12210e0b83596feaad30e</sys_id>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>dcfb329383a92210e0b83596feaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 02:59:10</sys_updated_on>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 02:25:33</sys_created_on>
+            <sys_id>54fb329383a92210e0b83596feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 02:25:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numero_de_matricula</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 02:25:34</sys_created_on>
+            <sys_id>d8fb329383a92210e0b83596feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 02:25:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_de_contratacao</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 02:25:34</sys_created_on>
+            <sys_id>50fb329383a92210e0b83596feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 02:25:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_de_demissao</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-22 02:25:34</sys_created_on>
+            <sys_id>d4fb329383a92210e0b83596feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1649910_unit_professor" sys_domain="global" view="Default view">56dbdfa083212210e0b83596feaad3e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 02:25:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

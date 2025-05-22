@@ -21,8 +21,7 @@
         <element label="Data de Matrícula" max_length="40" name="matricula" type="glide_date"/>
         <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
         <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
-        <element label="Nome" max_length="100" name="nome" type="string"/>
-        <element choice="1" display="true" label="Período" max_length="40" name="periodo" type="choice">
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
             <choice>
                 <element inactive_on_update="false" label="9" value="9"/>
                 <element inactive_on_update="false" label="8" value="8"/>
@@ -44,7 +43,6 @@
             <element name="localizacao"/>
         </index>
         <index name="index3">
-            <element name="nome"/>
             <element name="data_de_nascimento"/>
             <element name="matricula"/>
             <element name="data_de_formacao"/>
