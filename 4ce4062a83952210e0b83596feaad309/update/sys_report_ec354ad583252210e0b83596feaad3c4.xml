@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <active>true</active>
-        <additional_groupby/>
+        <additional_groupby>ativo,localizacao</additional_groupby>
         <aggregate>COUNT</aggregate>
         <aggregation_source>no_override</aggregation_source>
         <allow_data_label_overlap>false</allow_data_label_overlap>
@@ -46,12 +46,9 @@
         <donut_width_percent>30</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field/>
+        <field>localizacao</field>
         <field_list>nome,numero_de_matricula,data_de_contratacao,localizacao,ativo</field_list>
-        <filter table="x_1649910_unit_professor">ativo=true^localizacao=5e85276083612210e0b83596feaad3a7^NQativo=true^localizacao=59918e9183252210e0b83596feaad35e<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item display_table="cmn_location" display_value="UNIT-PE" endquery="false" field="localizacao" goto="false" newquery="false" operator="=" or="false" value="5e85276083612210e0b83596feaad3a7"/>
-            <item endquery="false" field="ativo" goto="false" newquery="true" operator="=" or="false" value="true"/>
-            <item display_table="cmn_location" display_value="UNIT-RJ" endquery="false" field="localizacao" goto="false" newquery="false" operator="=" or="false" value="59918e9183252210e0b83596feaad35e"/>
+        <filter table="x_1649910_unit_professor">ativo=true<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -112,21 +109,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-15 17:18:30</sys_created_on>
         <sys_id>ec354ad583252210e0b83596feaad3c4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Professores ativos</sys_name>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
         <sys_update_name>sys_report_ec354ad583252210e0b83596feaad3c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-15 18:25:57</sys_updated_on>
+        <sys_updated_on>2025-05-22 22:54:29</sys_updated_on>
         <table>x_1649910_unit_professor</table>
         <title>Professores ativos</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
-        <type>list</type>
+        <type>horizontal_bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>

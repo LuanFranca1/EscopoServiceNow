@@ -3,23 +3,23 @@
         <assignable_by/>
         <can_delegate>true</can_delegate>
         <description>Todos os usários criados</description>
-        <elevated_privilege>false</elevated_privilege>
+        <elevated_privilege>true</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_1649910_unit.UNIT_usuario</name>
+        <name>x_1649910_unit.Todos_usuários_UNIT</name>
         <scoped_admin>false</scoped_admin>
-        <suffix>UNIT_usuario</suffix>
+        <suffix>Todos_usuários_UNIT</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-14 22:59:30</sys_created_on>
         <sys_id>9095ce8183e12210e0b83596feaad324</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1649910_unit.UNIT_usuario</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_1649910_unit.Todos_usuários_UNIT</sys_name>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
         <sys_update_name>sys_user_role_9095ce8183e12210e0b83596feaad324</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-14 22:59:30</sys_updated_on>
+        <sys_updated_on>2025-05-22 23:06:52</sys_updated_on>
     </sys_user_role>
 </record_update>

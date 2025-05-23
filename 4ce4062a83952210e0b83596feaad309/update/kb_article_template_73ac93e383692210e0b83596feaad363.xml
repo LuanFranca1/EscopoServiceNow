@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template">
+    <kb_article_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer_ref display_value="Público alvo">25bcdfa383692210e0b83596feaad3c8</answer_ref>
+        <article_template>Público alvo</article_template>
+        <child_table>u_kb_template_p_blico_alvo</child_table>
+        <description>Colocar alunos/professores ou administradores</description>
+        <meta_description_field display_value="Público alvo">94a1eb6b83692210e0b83596feaad373</meta_description_field>
+        <sys_class_name>kb_article_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 23:27:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>73ac93e383692210e0b83596feaad363</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Público alvo</sys_name>
+        <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
+        <sys_update_name>kb_article_template_73ac93e383692210e0b83596feaad363</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 23:53:32</sys_updated_on>
+    </kb_article_template>
+</record_update>
