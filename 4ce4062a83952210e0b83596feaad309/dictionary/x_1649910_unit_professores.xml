@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b631dc483352210e0b83596feaad398" max_length="40" name="x_1649910_unit_professores" type="collection">
+        <element label="Cadeiras" max_length="32" name="cadeiras" reference="x_1649910_unit_cadeiras" type="reference"/>
+        <element label="Número de Matrícula" max_length="40" name="numero_de_matricula" type="string"/>
+        <element label="Alunos" max_length="32" name="alunos" reference="x_1649910_unit_aluno" type="reference"/>
+        <element label="Data de Contratação" max_length="40" name="data_de_contratacao" type="glide_date"/>
+        <element label="Data de Demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
+        <element label="Localização" max_length="32" name="localizacao" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="alunos"/>
+        </index>
+        <index name="index2">
+            <element name="cadeiras"/>
+        </index>
+        <index name="index3">
+            <element name="localizacao"/>
+        </index>
+    </element>
+</database>
