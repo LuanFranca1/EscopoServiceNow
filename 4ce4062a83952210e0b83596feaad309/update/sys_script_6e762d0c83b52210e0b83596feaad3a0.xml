@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Inativação professor</name>
+        <name>Inativação de professor</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -38,15 +38,15 @@ if (current.data_de_demissao && current.data_de_demissao <= hoje) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6e762d0c83b52210e0b83596feaad3a0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Inativação professor</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Inativação de professor</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
         <sys_update_name>sys_script_6e762d0c83b52210e0b83596feaad3a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-24 04:16:42</sys_updated_on>
+        <sys_updated_on>2025-05-27 01:27:07</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

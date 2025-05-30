@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="UNIT">8c04ccb483e12210e0b83596feaad361</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Professor</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1649910_unit_professores</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1649910_unit.UNIT_professor,x_1649910_unit.UNIT_admin,x_1649910_unit.UNIT_aluno,x_1649910_unit.cadeiras_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 03:20:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c77b5d0c83752210e0b83596feaad3c3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Professor Ativo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
+        <sys_update_name>sys_app_module_c77b5d0c83752210e0b83596feaad3c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 22:28:48</sys_updated_on>
+        <timeline_page/>
+        <title>Professor Ativo</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Professor Ativo</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">4ce4062a83952210e0b83596feaad309</application>
+        <file_path/>
+        <instance_id>36bd25b9db168a10ebdd2a591396190d</instance_id>
+        <instance_name>dev271913</instance_name>
+        <name>sys_app_module_c77b5d0c83752210e0b83596feaad3c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="UNIT">8c04ccb483e12210e0b83596feaad361</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Professor</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1649910_unit_professores</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1649910_unit.UNIT_professor,x_1649910_unit.UNIT_admin,x_1649910_unit.UNIT_aluno,x_1649910_unit.cadeiras_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-24 03:20:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c77b5d0c83752210e0b83596feaad3c3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Professor Ativo</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package><sys_policy/><sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope><sys_update_name>sys_app_module_c77b5d0c83752210e0b83596feaad3c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 22:28:48</sys_updated_on><timeline_page/><title>Professor Ativo</title><uncancelable>false</uncancelable><view_name>Professor Ativo</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1548688211</payload_hash>
+        <record_name>Professor Ativo</record_name>
+        <reverted_from/>
+        <source>692689bd83a52210e0b83596feaad370</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 22:28:48</sys_created_on>
+        <sys_id>0a72537183792210e0b83596feaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971e298b940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 22:28:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8e725371e279221083e3f62f1da463d0</update_guid>
+        <update_guid_history>8e725371e279221083e3f62f1da463d0:1548688211,cfbcd98c097522103d96562f2642c4c0:-740777170,faacd98cb37522102e92cdc10a9368b9:-111683460,879b114c207522101d4454a5dfd0773b:1945531628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Professor Ativo">aa821b7183792210e0b83596feaad3b0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 22:29:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>14a46b7a196a4934ab3f4e9ea5f8aa90</sys_id>
+        <sys_metadata>c77b5d0c83752210e0b83596feaad3c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Professor Ativo</sys_name>
+        <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
+        <sys_scope_delete display_value="">1d5ceada25a54e86a1b44fb2ac3a6aa4</sys_scope_delete>
+        <sys_update_name>sys_app_module_c77b5d0c83752210e0b83596feaad3c3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c77b5d0c83752210e0b83596feaad3c3">0a72537183792210e0b83596feaad3d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 22:29:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

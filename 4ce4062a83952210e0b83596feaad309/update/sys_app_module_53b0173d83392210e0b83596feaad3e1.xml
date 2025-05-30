@@ -4,13 +4,15 @@
         <application display_value="UNIT">8c04ccb483e12210e0b83596feaad361</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_1649910_unit_professores">ativo=true^EQ<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Professor</mobile_title>
+        <mobile_title>Professores Ativos</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1649910_unit_professores</name>
         <order/>
@@ -18,26 +20,26 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1649910_unit.UNIT_professor,x_1649910_unit.UNIT_admin,x_1649910_unit.UNIT_aluno,x_1649910_unit.cadeiras_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-24 03:20:06</sys_created_on>
+        <sys_created_on>2025-05-29 22:23:40</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c77b5d0c83752210e0b83596feaad3c3</sys_id>
+        <sys_id>53b0173d83392210e0b83596feaad3e1</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Professor</sys_name>
+        <sys_name>Professores Ativos</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
-        <sys_update_name>sys_app_module_c77b5d0c83752210e0b83596feaad3c3</sys_update_name>
+        <sys_update_name>sys_app_module_53b0173d83392210e0b83596feaad3e1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-24 03:25:02</sys_updated_on>
+        <sys_updated_on>2025-05-29 22:27:23</sys_updated_on>
         <timeline_page/>
-        <title>Professor</title>
+        <title>Professores Ativos</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>Ativo</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>
