@@ -10,10 +10,10 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Alunos_Cadeiras</mobile_title>
+        <mobile_title>Professor</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1649910_unit_alunos_cadeiras</name>
-        <order>300</order>
+        <name>x_1649910_unit_professores</name>
+        <order>150</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -21,23 +21,23 @@
         <roles>x_1649910_unit.UNIT_admin,x_1649910_unit.UNIT_aluno,x_1649910_unit.UNIT_professor</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-24 01:24:33</sys_created_on>
+        <sys_created_on>2025-06-01 23:45:26</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>37d0010883f12210e0b83596feaad347</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Alunos_Cadeiras</sys_name>
+        <sys_id>01a0433a83f56210e0b83596feaad38b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Professores</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
-        <sys_update_name>sys_app_module_37d0010883f12210e0b83596feaad347</sys_update_name>
+        <sys_update_name>sys_app_module_01a0433a83f56210e0b83596feaad38b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-01 23:22:41</sys_updated_on>
+        <sys_updated_on>2025-06-01 23:45:54</sys_updated_on>
         <timeline_page/>
-        <title>Alunos_Cadeiras</title>
+        <title>Professores</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>Professores</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

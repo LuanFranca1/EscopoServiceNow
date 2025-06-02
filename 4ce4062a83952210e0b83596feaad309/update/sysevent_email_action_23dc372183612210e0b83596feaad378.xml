@@ -42,7 +42,7 @@
         <message_html><![CDATA[<p>A cadeira Cadeiras: ${x_1649910_unit_cadeiras} foi atribu&iacute;da ao aluno Alunos: ${x_1649910_unit_aluno} do per&iacute;odo Cadeiras Per&iacute;odo : ${x_1649910_unit_cadeiras.periodo}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>Notificação cadeira</name>
+        <name>Notificar cadeira</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -61,15 +61,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>23dc372183612210e0b83596feaad378</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Notificação cadeira</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Notificar cadeira</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
         <sys_update_name>sysevent_email_action_23dc372183612210e0b83596feaad378</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-24 03:55:28</sys_updated_on>
+        <sys_updated_on>2025-06-02 00:19:10</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

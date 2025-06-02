@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>4ccd448d83312210e0b83596feaad325</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>eae4694f83f1a210e0b83596feaad368</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>kb_knowledge_base</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>08cd448d83312210e0b83596feaad326</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a6e4694f83f1a210e0b83596feaad369</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>kb_category</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>8ccd448d83312210e0b83596feaad326</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>2ee4694f83f1a210e0b83596feaad369</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>ownership_group</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>04cd448d83312210e0b83596feaad327</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a2e4694f83f1a210e0b83596feaad36a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>published</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>88cd448d83312210e0b83596feaad327</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>2ae4694f83f1a210e0b83596feaad36a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>scheduled_publish_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>00cd448d83312210e0b83596feaad328</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>aee4694f83f1a210e0b83596feaad36a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>valid_to</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>84cd448d83312210e0b83596feaad328</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>26e4694f83f1a210e0b83596feaad36b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>0ccd448d83312210e0b83596feaad328</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>aae4694f83f1a210e0b83596feaad36b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>version</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>80cd448d83312210e0b83596feaad329</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>22e4694f83f1a210e0b83596feaad36c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>article_type</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>08cd448d83312210e0b83596feaad329</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a6e4694f83f1a210e0b83596feaad36c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>workflow_state</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>8ccd448d83312210e0b83596feaad329</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>2ee4694f83f1a210e0b83596feaad36c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>source</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>04cd448d83312210e0b83596feaad32a</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a2e4694f83f1a210e0b83596feaad36d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>latest_aqi</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>88cd448d83312210e0b83596feaad32a</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>2ae4694f83f1a210e0b83596feaad36d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>direct</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>00cd448d83312210e0b83596feaad32b</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>aee4694f83f1a210e0b83596feaad36d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>display_attachments</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>84cd448d83312210e0b83596feaad32b</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>26e4694f83f1a210e0b83596feaad36e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,13 +214,13 @@
             <element>.end_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>0ccd448d83312210e0b83596feaad32b</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>aae4694f83f1a210e0b83596feaad36e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -228,13 +228,13 @@
             <element>short_description</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>80cd448d83312210e0b83596feaad32c</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>22e4694f83f1a210e0b83596feaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -242,13 +242,13 @@
             <element>cxs_table_search.xml</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>08cd448d83312210e0b83596feaad32c</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a6e4694f83f1a210e0b83596feaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -256,13 +256,13 @@
             <element>text</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>cccd448d83312210e0b83596feaad32c</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>6ee4694f83f1a210e0b83596feaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -270,13 +270,13 @@
             <element>wiki</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>44cd448d83312210e0b83596feaad32d</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>e2e4694f83f1a210e0b83596feaad370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -284,13 +284,13 @@
             <element>knowledge_form_embedded_queries</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>c8cd448d83312210e0b83596feaad32d</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>6ae4694f83f1a210e0b83596feaad370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Knowledge Form Embedded Queries">fcd2bd32878dc65025f299b73cbb35b4</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -298,13 +298,13 @@
             <element>sys_created_on</element>
             <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>80cd448d83312210e0b83596feaad32e</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>22e4694f83f1a210e0b83596feaad371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -312,13 +312,13 @@
             <element>knowledge_gen_ai_message.xml</element>
             <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>08cd448d83312210e0b83596feaad32e</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a6e4694f83f1a210e0b83596feaad371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Knowledge Gen AI Message">43fdbfbbc3b9b110d3ff8cab3c40dd97</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -326,13 +326,13 @@
             <element>knowledge_now_assist_modal.xml</element>
             <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>cccd448d83312210e0b83596feaad32e</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>6ee4694f83f1a210e0b83596feaad371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Knowledge Now Assist Modal">435fbe6283ec0e5039fd5defeeaad3fe</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -340,13 +340,13 @@
             <element>.begin_split</element>
             <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>84cd448d83312210e0b83596feaad32f</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>26e4694f83f1a210e0b83596feaad372</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -354,13 +354,13 @@
             <element>x_1649910_unit_u_kb_respons_veis_pelo_processo</element>
             <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>0ccd448d83312210e0b83596feaad32f</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>aae4694f83f1a210e0b83596feaad372</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -368,13 +368,13 @@
             <element>x_1649910_unit_u_kb_p_blico_alvo</element>
             <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>80cd448d83312210e0b83596feaad330</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>22e4694f83f1a210e0b83596feaad373</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -382,13 +382,13 @@
             <element>x_1649910_unit_u_kb_conte_do</element>
             <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>08cd448d83312210e0b83596feaad330</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>a6e4694f83f1a210e0b83596feaad373</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -396,13 +396,13 @@
             <element>can_read_user_criteria</element>
             <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-27 00:13:52</sys_created_on>
-            <sys_id>8ccd448d83312210e0b83596feaad330</sys_id>
+            <sys_created_on>2025-06-02 11:42:32</sys_created_on>
+            <sys_id>2ee4694f83f1a210e0b83596feaad373</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_kb_template_plano_de_aula" sys_domain="global" view="Default view">a13663ef83692210e0b83596feaad331</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-27 00:13:52</sys_updated_on>
+            <sys_updated_on>2025-06-02 11:42:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

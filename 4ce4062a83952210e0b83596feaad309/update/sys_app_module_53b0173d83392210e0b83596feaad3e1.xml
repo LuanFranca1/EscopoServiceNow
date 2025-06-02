@@ -15,7 +15,7 @@
         <mobile_title>Professores Ativos</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1649910_unit_professores</name>
-        <order/>
+        <order>600</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>53b0173d83392210e0b83596feaad3e1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Professores Ativos</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1649910_unit">4ce4062a83952210e0b83596feaad309</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="UNIT">4ce4062a83952210e0b83596feaad309</sys_scope>
         <sys_update_name>sys_app_module_53b0173d83392210e0b83596feaad3e1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-29 22:27:23</sys_updated_on>
+        <sys_updated_on>2025-06-01 23:23:36</sys_updated_on>
         <timeline_page/>
         <title>Professores Ativos</title>
         <uncancelable>false</uncancelable>
